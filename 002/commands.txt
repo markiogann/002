@@ -1,0 +1,10 @@
+info
+show
+insert
+filter_role Leader
+group_by_role
+count
+update 1003
+remove_key 1004
+save
+exit

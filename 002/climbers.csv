@@ -1,0 +1,6 @@
+Id,Name,Status,Role,Weather,Energy,Altitude,Experience,EquipName,EquipWeight,EquipDurability,CoordX,CoordY,CoordZ,CreatedAt
+1001,Алексей,в пути,Leader,Sunny,95,1200,7,Палатка,5,80,12,24,1000,10/31/2025 00:00:00
+1002,Ольга,в лагере,Medic,Windy,90,800,5,Аптечка,3,95,15,10,500,10/31/2025 00:00:00
+1003,Максим,,Leader,Windy,67,1000,9,,,,12,19,1000,10/31/2025 15:56:45
+2651,Николай,отдыхает,Climber,Snowy,85,900,5,Веревка,3,75,10,20,900,10/31/2025 15:52:47
+8577,Марк,Отдыхает,Support,Sunny,80,700,7,,,,10,30,700,10/31/2025 15:55:23
